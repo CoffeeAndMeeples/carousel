@@ -21,6 +21,8 @@ html, body {
 }
 .images {
     display: flex;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
 }
 
 .image2 {
